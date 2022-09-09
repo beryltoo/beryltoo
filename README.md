@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beryltoo
-- 👀 I’m interested in solving problems using current technologies.
-- 🌱 I’m currently learning python and google cloud services
-- 💞️ I’m looking to collaborate on various python projects, android projects .
+- 👀 I’m interested in solving problems using current technologies and I enjoy doing puzzles during my free time.
+- 🌱 I’m an electrical engineer but I love coding.
+- 💞️ I’m looking to collaborate on various python projects, data analysis projects .
 - 📫 How to reach me ...berylchebet44@gmail.com
 
 <!---
