@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @beryltoo
-- 👀 I’m interested in solving problems using current technologies and I enjoy doing puzzles during my free time.
-- 🌱 I’m an electrical engineer but I love coding.
+- 👋 Hi, I’m Beryl Chebet
+- 👀 Currently learning SQL and Python for data analysis.
 - 💞️ I’m looking to collaborate on various python projects, data analysis projects .
 - 📫 How to reach me ...berylchebet44@gmail.com
 
